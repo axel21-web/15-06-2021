@@ -1,0 +1,10 @@
+C:\Users\Sistemas-31\source\repos\Examen-IIParcial\bin\Debug\Examen-IIParcial.exe.config
+C:\Users\Sistemas-31\source\repos\Examen-IIParcial\bin\Debug\Examen-IIParcial.exe
+C:\Users\Sistemas-31\source\repos\Examen-IIParcial\bin\Debug\Examen-IIParcial.pdb
+C:\Users\Sistemas-31\source\repos\Examen-IIParcial\obj\Debug\Examen-IIParcial.csprojAssemblyReference.cache
+C:\Users\Sistemas-31\source\repos\Examen-IIParcial\obj\Debug\Examen_IIParcial.Form1.resources
+C:\Users\Sistemas-31\source\repos\Examen-IIParcial\obj\Debug\Examen_IIParcial.Properties.Resources.resources
+C:\Users\Sistemas-31\source\repos\Examen-IIParcial\obj\Debug\Examen-IIParcial.csproj.GenerateResource.cache
+C:\Users\Sistemas-31\source\repos\Examen-IIParcial\obj\Debug\Examen-IIParcial.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-31\source\repos\Examen-IIParcial\obj\Debug\Examen-IIParcial.exe
+C:\Users\Sistemas-31\source\repos\Examen-IIParcial\obj\Debug\Examen-IIParcial.pdb
